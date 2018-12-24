@@ -1,2 +1,11 @@
 这是一首简单的小情歌--《小情歌》
 这又是一首小情歌
+
+入门：https://blog.csdn.net/qazwsxpcm/article/details/68946736
+
+先删除远程 Git 仓
+git remote rm origin
+再添加
+git remote add origin 仓库地址
+
+\Windows\System32\drivers\etc\hosts
